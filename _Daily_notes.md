@@ -3,6 +3,8 @@ Training Material Link: https://learn.microsoft.com/en-us/training/courses/pl-30
 
 PL-300 Certification Link: https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification
 
+Lab Instruction from Microfot (Github): https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/blob/Main/Instructions/Labs/01-prepare-data-with-power-query-in-power-bi-desktop.md
+
 Lab Link: https://trainocate.learnondemand.net/Class/681350
  
 
