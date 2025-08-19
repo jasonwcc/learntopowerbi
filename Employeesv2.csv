@@ -1,0 +1,12 @@
+﻿EmployeeID,Subsidiaries,Employee Name,Phone,Branch,Manager,Department,Salary,Hired Date,Photo URL,payrollid
+A0001,Quintegral,Osawa ,1796836765,SG,,Directors,5000,1/1/2000,https://media.licdn.com/dms/image/C5103AQHWwMWwU3_xFw/profile-displayphoto-shrink_200_200/0/1573453831848?e=2147483647&v=beta&t=RsdxDeqVGdLFh50A6dayXBDVyxDBygawnZii0N5fypo,111
+B0001,Trainocate,Ruby Kaur,2357139323,KL,Osawa,Sales,4000,2/1/2000,https://media.licdn.com/dms/image/C5603AQEp0Nlx8pMqvA/profile-displayphoto-shrink_200_200/0/1631970619329?e=2147483647&v=beta&t=XXbm42Ksr4m6iqds2r-VFeKf_fLoJUGQgxQjdNi2ejc,8888
+B0101,Trainocate,Ming De Kuen,1245245672,PJ,Brian Ng,Operation,1001,1/2/2000,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxYHeAsBjrW2nlOOhNvMkJw8Ferup7PCx7vg&s,82482
+C0002,Quintegral,Devi Sunes,3052465381,KL,Ruby Kaur,Sales,3003,1/2/2000,https://i1.sndcdn.com/artworks-000065790486-rloedr-t500x500.jpg,5555
+C0003,Trainocate,Jason Wong,1625535511,KL,Brian Ng,Operation,1002,3/4/2001,https://i.ibb.co/Tx6Bq9Kq/selfportrait2.jpg,12347
+C0005,Trainocate,Llian Vecteezy,2325587855,PJ,Jason Wong,Trainers,2002,1/2/2000,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Dguf61DgFkQ8wlvN58xZYpSRabRB5XAchQ&s,22254
+C0011,Trainocate,Brian Micolai,1028777351,KL,Ruby Kaur,Trainers,2003,3/4/2001,https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brian_McKnight_by_Gage_Skidmore_2.jpg/1200px-Brian_McKnight_by_Gage_Skidmore_2.jpg,76478
+C0020,Quintegral,Abu Bakar,2067405812,PJ,Pater Aria,Sales,3002,3/4/2001,https://www.kosmo.com.my/wp-content/uploads/2020/08/Abu1.jpeg,4444
+E0001,Quintegral,Pater Aria,2115467679,SG,Ruby Kaur,Sales,3002,5/5/2002,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxURLS1gw7oJL0GrgROD-aI1igxgbnGnvxeg&s,1111
+E0012,Quintegral,        Jamal Ahmad,2748855584,SG,Pater Aria,Sales,3001,6/6/2002,https://yt3.googleusercontent.com/ytc/AIdro_nv6vX-VnX5EE9T6MyXhu3u80r1zGRMJkKPijrx6vZEcQ=s900-c-k-c0x00ffffff-no-rj,2222
+E0013,Quintegral,Sofia  Kowalskki,1184824538,SG,Ruby Kaur,Sales,3002,7/5/2002,https://64.media.tumblr.com/7ed3a9bfc51621f7f0e8cf1ee6dfba57/tumblr_mh7r7cddVu1r1cbjpo1_640.jpg,3333
