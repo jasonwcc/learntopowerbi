@@ -1,3 +1,4 @@
+```
 let
     StartDate = #date(StartYear,1,1),
     EndDate = #date(EndYear,12,31),
@@ -18,3 +19,4 @@ let
     #"Inserted Day Name" = Table.AddColumn(#"Inserted Day of Year", "Day Name", each Date.DayOfWeekName([FullDateAlternateKey]), type text)
 in
 #"Inserted Day Name"
+```
