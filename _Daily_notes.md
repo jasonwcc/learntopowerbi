@@ -12,4 +12,6 @@ Use registered email
 
 Password : trainocate@1
 
+Link to exam-tips: https://drive.google.com/drive/folders/1jx7uknD69LmtJZAowcq3GRstI4kA4W6d?usp=sharing
+
 ```
