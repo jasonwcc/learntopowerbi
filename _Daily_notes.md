@@ -1,23 +1,34 @@
 ```
-- Lab Link :
-https://trainocate.learnondemand.net/Class/720208
-https://trainocate.learnondemand.net/Class/720295
+Lab Link :        https://trainocate.learnondemand.net/Class/682296
+
+                  https://trainocate.learnondemand.net/Class/682070
+ 
 
  
-Student Username :
+
+Username
+
+mugilan.balakrishnan@dhl.com
+
+Borra.VenkatMohan@dhl.com
+
+MEICHEN.POH@DHL.COM
+
+kodi_veera.krishnamma_naidu@dhl.com
+
+Dinesh.Seeram@dhl.com
+
+wanelmy.wanmusadki@dhl.com
 
  
-Use registered email
-
 
 Password : trainocate@1
 
-Link to exam-tips: https://drive.google.com/drive/folders/1jx7uknD69LmtJZAowcq3GRstI4kA4W6d?usp=sharing
+
 
 Post Class:
-1. Evaluation link : https://www.metricsthatmatter.com/url/u.aspx?E7B1EC9AF229602357
-2a. Badge : https://learn.microsoft.com/en-us/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=4675229&redeem=796P8P
-2b. Badge for the 9 students who hasnt get the badge
-https://learn.microsoft.com/en-us/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=4675229&redeem=796MGL
+1. Evaluation link : 
+2. Badge : 
+3. Link to exam-tips: https://drive.google.com/drive/folders/1jx7uknD69LmtJZAowcq3GRstI4kA4W6d?usp=sharing
 
-GL
+TQ & GL
