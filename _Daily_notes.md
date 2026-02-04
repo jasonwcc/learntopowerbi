@@ -1,12 +1,8 @@
 ```
-Lab Link :        https://trainocate.learnondemand.net/Class/682296
+Training Material 	: https://learn.microsoft.com/en-us/training/courses/pl-300t00
 
-                  https://trainocate.learnondemand.net/Class/682070
- 
-
- 
-
-Username
+Lab Link 		: https://trainocate.learnondemand.net/Class/733302 
+Username: 
 
 mugilan.balakrishnan@dhl.com
 
@@ -21,8 +17,13 @@ Dinesh.Seeram@dhl.com
 wanelmy.wanmusadki@dhl.com
 
  
-
 Password : trainocate@1
+ 
+
+Other Resources :
+- https://github.com/jasonwcc/learntopowerbi
+- https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/tree/Main/Instructions/Labs
+
 
 
 
