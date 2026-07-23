@@ -2,14 +2,22 @@
 Daily Notes : https://github.com/jasonwcc/learntopowerbi/blob/main/_Daily_notes.md
 Training Material : https://learn.microsoft.com/en-us/training/courses/pl-300t00
 
-Lab Link : https://trainocate.learnondemand.net/Class/733302 
+Lab Link : [https://trainocate.learnondemand.net/Class/733302 ]
+
+
 Username: 
-mugilan.balakrishnan@dhl.com
-Borra.VenkatMohan@dhl.com
-MEICHEN.POH@DHL.COM
-kodi_veera.krishnamma_naidu@dhl.com
-Dinesh.Seeram@dhl.com
-wanelmy.wanmusadki@dhl.com
+kapilan.ramarao1@concentrix.com
+
+suzanne.tai@concentrix.com
+
+noraida.amri@concentrix.com
+
+kevinjapyz@gmail.com
+
+hanis.hazirah.mokhtar@sdguthrie.com
+
+nor.atikah.johari@sdguthrie.com
+
  
 Password : trainocate@1
  
