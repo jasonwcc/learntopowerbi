@@ -2,7 +2,7 @@
 Daily Notes : https://github.com/jasonwcc/learntopowerbi/blob/main/_Daily_notes.md
 Training Material : https://learn.microsoft.com/en-us/training/courses/pl-300t00
 
-Lab Link : [https://trainocate.learnondemand.net/Class/733302 ]
+Lab Link : [ https://trainocate.learnondemand.net/ClassEnrollment/5904558 ]
 
 
 Username: 
