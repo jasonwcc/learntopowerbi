@@ -1,6 +1,7 @@
 ```
 Daily Notes : https://github.com/jasonwcc/learntopowerbi/blob/main/_Daily_notes.md
 Training Material : https://learn.microsoft.com/en-us/training/courses/pl-300t00
+Exam PDF : https://drive.google.com/drive/folders/1Bi_mulheuN5Ki2Ljw1_TQVAPQc45SDkT?usp=drive_link
 
 Lab Link : [ https://trainocate.learnondemand.net/ClassEnrollment/5904558 ]
 
